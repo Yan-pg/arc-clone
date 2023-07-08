@@ -4,11 +4,11 @@ export function App() {
       <button
         className="bg-black w-24"
         onClick={() => {
-          window.api.fetchDocuments("testeeterkemcls");
+          window.api.fetchDocuments('asdads')
         }}
       >
         click
       </button>
     </div>
-  );
+  )
 }
